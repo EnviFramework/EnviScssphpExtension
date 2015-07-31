@@ -1,4 +1,4 @@
-name: "markdown"
+name: "scssphp"
 type: "extension"
 description: "Scssphpを使用するためのエクステンションクラス"
 keywords: "css,scss"
