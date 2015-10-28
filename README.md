@@ -1,27 +1,27 @@
-Scssphp‚ðŽg—p‚·‚é‚½‚ß‚ÌƒGƒNƒXƒeƒ“ƒVƒ‡ƒ“ƒNƒ‰ƒX
+Scssphpã‚’ä½¿ç”¨ã™ã‚‹ãŸã‚ã®ã‚¨ã‚¯ã‚¹ãƒ†ãƒ³ã‚·ãƒ§ãƒ³ã‚¯ãƒ©ã‚¹
 =================================
 
-ŠT—v
+æ¦‚è¦
 --------------------------------------------------
-CSSŠg’£‚ÌASCSS‚ðPHP‚©‚çƒRƒ“ƒpƒCƒ‹‚·‚é‚½‚ß‚ÌƒGƒNƒXƒeƒ“ƒVƒ‡ƒ“‚Å‚·B
+CSSæ‹¡å¼µã®ã€SCSSã‚’PHPã‹ã‚‰ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã™ã‚‹ãŸã‚ã®ã‚¨ã‚¯ã‚¹ãƒ†ãƒ³ã‚·ãƒ§ãƒ³ã§ã™ã€‚
 
-SCSS‚Íhttp://sass-lang.com/‚ðŽQÆ‚µ‚Ä‰º‚³‚¢B
+SCSSã¯http://sass-lang.com/ã‚’å‚ç…§ã—ã¦ä¸‹ã•ã„ã€‚
 
 
-ƒpƒbƒP[ƒWŠÇ—
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ç®¡ç†
 --------------------------------------------------
-EnviScssphpExtensionƒpƒbƒP[ƒW‚ðEnviMvc‚Éƒoƒ“ƒhƒ‹‚³‚¹‚é‚É‚ÍA
+EnviScssphpExtensionãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’EnviMvcã«ãƒãƒ³ãƒ‰ãƒ«ã•ã›ã‚‹ã«ã¯ã€
 
 `envi install-bundle new https://raw.githubusercontent.com/EnviMVC/EnviScssphpExtension/master/bundle.yml`
 
-ƒRƒ}ƒ“ƒh‚ðŽÀs‚µ‚Ü‚·B
+ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¾ã™ã€‚
 
-ƒCƒ“ƒXƒg[ƒ‹EÝ’è
+ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãƒ»è¨­å®š
 --------------------------------------------------
 
-ƒpƒbƒP[ƒW‚ªƒoƒ“ƒhƒ‹‚³‚ê‚Ä‚¢‚ê‚ÎA
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãŒãƒãƒ³ãƒ‰ãƒ«ã•ã‚Œã¦ã„ã‚Œã°ã€
 
-`envi install-extension {app_key} {DIÝ’èƒtƒ@ƒCƒ‹} markdown`
+`envi install-extension {app_key} {DIè¨­å®šãƒ•ã‚¡ã‚¤ãƒ«} scssphp`
 
-ƒRƒ}ƒ“ƒh‚ÅƒCƒ“ƒXƒg[ƒ‹o—ˆ‚Ü‚·B
+ã‚³ãƒžãƒ³ãƒ‰ã§ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å‡ºæ¥ã¾ã™ã€‚
 
